@@ -1,0 +1,14 @@
+{
+  "name": "2pc-kite-backend",
+  "version": "1.0.0",
+  "main": "kiteLiveFeed.js",
+  "scripts": {
+    "start": "node kiteLiveFeed.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "kiteconnect": "^4.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
